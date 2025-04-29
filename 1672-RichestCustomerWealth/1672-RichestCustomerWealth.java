@@ -1,4 +1,4 @@
-// Last updated: 29/04/2025, 18:47:29
+// Last updated: 29/04/2025, 18:47:58
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int sum = 0;
